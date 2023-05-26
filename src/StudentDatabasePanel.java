@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-
+// first version
 
 public class StudentDatabasePanel extends JPanel {
     private int CALC_WIDTH = 800;
